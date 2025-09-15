@@ -119,7 +119,7 @@
   <section id="about" class="about">
     <h2>About Me</h2>
     <div class="about-content">
-      <img src="IMG_20250814_WA0046.jpg" alt="Profile Photo">
+      <img src="IMG-20250814-WA0046.jpg" alt="Profile Photo">
       <p>
         I am a student enthusiastic about technology and design. I love building interactive,
         user-friendly web applications and exploring new tools in the tech world.
